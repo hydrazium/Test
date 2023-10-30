@@ -10,6 +10,8 @@ public class Program {
 		System.out.println("Tu fais la 2e branche ?");
 		System.out.println("oui");
 		System.out.println("D'accord");
+		System.out.println("J'ai fusionné la branche2 avec le main mais j effectue toujours des modifications dessus");
+		
 	}
 
 }
