@@ -11,6 +11,7 @@ public class Program {
 		System.out.println("oui");
 		System.out.println("D'accord");
 		System.out.println("J'ai fusionné la branche2 avec le main mais j effectue toujours des modifications dessus");
+		System.out.println("Travaille toujours sur la branche2");
 		
 	}
 
