@@ -9,6 +9,7 @@ public class Program {
 		System.out.println("Bien merci");
 		System.out.println("Tu fais la 2e branche ?");
 		System.out.println("oui");
+		System.out.println("D'accord");
 	}
 
 }
